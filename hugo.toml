@@ -1,3 +1,28 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://blog.techanv.com'
+# Your page title
+title = "blogs for techanv consluting"
+theme = "cuisine-book"
+# (Optional) Set this to true to enable Author.
+enableGitInfo = true
+
+[params]
+  author = "Anubhav Gain"
+  description = "Anubhav Gain is an experienced DevSecOps Engineer and Cyber Security expert with expertise in Security Information and Event Management (SIEM), Linux, Information Security, Cybersecurity, Threat & Vulnerability Management, Cloud Security, Rust Programming, and Network Security."
+  # (Optional) Your logo in the header navbar which has to be stored in static folder.
+  # If the logo is /static/logo.png then the path would be 'logo.png'
+  logo = "logo.png"
+  # (Optional) Enable comments template on pages
+  # By default partials/comments.html includes Disqus template
+  # See https://gohugo.io/content-management/comments/#configure-disqus
+  # Can be overwritten by same param in page frontmatter
+  comment = true
+  # Set source repository location.
+  repo = 'https://github.com/techanvconsulting/blogs'
+  # Enable 'Edit' links.
+  # Disabled by default. Uncomment to enable. Requires 'repo' param.
+  # Path must point to the site directory.
+  editpath = 'edit/main'
+  # Enable 'Add' links.
+  # Disabled by default. Uncomment to enable. Requires 'repo' param.
+  # Path must point to the site directory.
+  newpath = 'new/main'
