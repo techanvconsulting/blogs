@@ -1,6 +1,6 @@
 # Hugo generated files
 /public/
-/resources/
+/resources/*
 
 # Hugo cache and temporary files
 /resources/_gen/
@@ -28,3 +28,5 @@
 # Ignore OS generated files
 .DS_Store
 Thumbs.db
+resources/_gen/assets/main.scss_556174977cbbec78e5a7f0f5af138dd6.content
+resources/_gen/assets/main.scss_556174977cbbec78e5a7f0f5af138dd6.json
