@@ -10,7 +10,7 @@ enableGitInfo = true
   description = "Anubhav Gain is an experienced DevSecOps Engineer and Cyber Security expert with expertise in Security Information and Event Management (SIEM), Linux, Information Security, Cybersecurity, Threat & Vulnerability Management, Cloud Security, Rust Programming, and Network Security."
   # (Optional) Your logo in the header navbar which has to be stored in static folder.
   # If the logo is /static/logo.png then the path would be 'logo.png'
-  logo = "logo1.png"
+  logo = "ghost-img.gif"
   # (Optional) Enable comments template on pages
   # By default partials/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus
