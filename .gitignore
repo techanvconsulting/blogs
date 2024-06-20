@@ -1,0 +1,30 @@
+# Hugo generated files
+/public/
+/resources/
+
+# Hugo cache and temporary files
+/resources/_gen/
+/resources/_gen/assets/
+/resources/_gen/images/
+/resources/_gen/js/
+/resources/_gen/css/
+/resources/_gen/fonts/
+/resources/_gen/data/
+/resources/_gen/taxonomies/
+
+# Hugo server
+/dev/
+
+# Ignore build artifacts
+/public/
+/resources/_gen/
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
